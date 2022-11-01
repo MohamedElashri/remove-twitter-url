@@ -7,7 +7,7 @@ Make sure you have userscripts manager enabled in your browser. Some suggestions
 - [Violentmonkey](https://violentmonkey.github.io/get-it/) (prefered)
 - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 
   
-To install, you can clink on [install userscript][twitter-userscript]
+To install, you can click on [install userscript][twitter-userscript]
 
 [twitter-userscript]: https://raw.githubusercontent.com/MohamedElashri/remove-twitter-url/main/userscript.js
 
