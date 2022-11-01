@@ -9,9 +9,9 @@ Make sure you have userscripts manager enabled in your browser. Some suggestions
   
 To install, you can click on [install userscript][twitter-userscript]
 
-[twitter-userscript]: https://raw.githubusercontent.com/MohamedElashri/remove-twitter-url/main/userscript.js
+[twitter-userscript]: https://raw.githubusercontent.com/MohamedElashri/remove-twitter-url/main/twitter_url_remover.user.js
 
-Or you can copy and paste [userscript.js](https://github.com/MohamedElashri/remove-twitter-url/blob/main/userscript.js) file into the userscript manager direcly. 
+Or you can copy and paste [userscript.js](https://github.com/MohamedElashri/remove-twitter-url/blob/main/twitter_url_remover.user.js) file into the userscript manager direcly. 
 
 ## Issues
 
