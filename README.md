@@ -3,9 +3,9 @@ This userscript tries to remove t.co urls on twitter and restore original links.
 
 ## Usage 
 Make sure you have userscripts manager enabled in your browser. Some suggestions are 
-	* [Tampermonkey](https://www.tampermonkey.net/) (proprietary)
-	* [Violentmonkey](https://violentmonkey.github.io/get-it/) (prefered)
-	* [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 
+- [Tampermonkey](https://www.tampermonkey.net/) (proprietary)
+- [Violentmonkey](https://violentmonkey.github.io/get-it/) (prefered)
+- [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 
   
 To install, you can clink on [install userscript][twitter-userscript]
 
