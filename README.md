@@ -7,9 +7,9 @@ Make sure you have userscripts manager enabled in your browser. Some suggestions
 - [Violentmonkey](https://violentmonkey.github.io/get-it/) (prefered)
 - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 
   
-To install, you can click on [install userscript][twitter-userscript]
+To install, you can clink on [install userscript][twitter-userscript]
 
-[twitter-userscript]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-colors.user.js
+[twitter-userscript]: https://raw.githubusercontent.com/MohamedElashri/remove-twitter-url/main/userscript.js
 
 Or you can copy and paste [userscript.js](https://github.com/MohamedElashri/remove-twitter-url/blob/main/userscript.js) file into the userscript manager direcly. 
 
