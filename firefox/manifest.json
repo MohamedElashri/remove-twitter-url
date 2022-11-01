@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Twitter t.co Link Restorer",
+    "version": "1.0",
+    "Author": "Mohamed Elashri",
+    "description": "Restores original links from twitter t.co links",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.twitter.com/*", "*://twitter.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
